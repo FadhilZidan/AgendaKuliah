@@ -30,7 +30,7 @@
     <string name="status_belum_dikumpulkan">Belum dikumpulkan</string>
     <string name="btn_kembali">Kembali</string>
 
-    <string name="nama_mahasiswa">Mahasiswa Agenda Kuliah</string>
+    <string name="nama_mahasiswa">Fadhil Zidan</string>
     <string name="nim_mahasiswa">NIM: 20240001</string>
-    <string name="prodi_mahasiswa">Teknik Informatika</string>
+    <string name="prodi_mahasiswa">Jurusan: Sistem Informasi</string>
 </resources>
