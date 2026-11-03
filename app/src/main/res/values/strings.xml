@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agenda Kuliah</string>
+    <string name="tab_jadwal">Jadwal</string>
+    <string name="tab_tugas">Tugas</string>
+    <string name="tab_profil">Profil</string>
+
+    <string name="header_jadwal">Agenda Kuliah</string>
+    <string name="header_tugas">Daftar Tugas</string>
+    <string name="header_detail_tugas">Detail Tugas</string>
+    <string name="header_profil">Profil</string>
+
+    <string name="hero_jadwal_title">Agenda Kuliah</string>
+    <string name="hero_jadwal_subtitle">Hari ini: 2 kelas</string>
+
+    <string name="matkul_android">Pemrograman Android</string>
+    <string name="matkul_android_jam">08.00 - 10.00 | R.301</string>
+    <string name="matkul_db">Basis Data</string>
+    <string name="matkul_db_jam">13.00 - 15.00 | R.204</string>
+
+    <string name="sub_daftar_tugas">Daftar tugas</string>
+    <string name="tugas_1">Laporan Fragment</string>
+    <string name="tugas_1_batas">Batas: Jumat</string>
+    <string name="tugas_2">Latihan BottomNav</string>
+    <string name="tugas_2_batas">Batas: Sabtu</string>
+    <string name="tugas_3">Kuis Retrofit</string>
+    <string name="tugas_3_batas">Batas: Minggu</string>
+
+    <string name="status_label">Status</string>
+    <string name="status_belum_dikumpulkan">Belum dikumpulkan</string>
+    <string name="btn_kembali">Kembali</string>
+
+    <string name="nama_mahasiswa">Mahasiswa Agenda Kuliah</string>
+    <string name="nim_mahasiswa">NIM: 20240001</string>
+    <string name="prodi_mahasiswa">Teknik Informatika</string>
+</resources>
